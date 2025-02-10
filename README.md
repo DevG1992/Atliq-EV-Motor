@@ -17,8 +17,8 @@ e. Better Vehicle Options – Improved range (300-500 km), diverse models (Tata 
 
    Government incentives and subsidies play a crucial role in boosting EV adoption by reducing upfront costs, lowering operating expenses, and signaling government support.
 
-   Key Impacts:
-   
+       Key Impacts:
+       
        a. Lower Costs: Subsidies reduce EV prices (e.g., ₹5,000–₹10,000 per kWh), making them competitive with ICE vehicles.
        
        b. Reduced Ownership Expenses: Road tax waivers and registration discounts lower long-term costs.
