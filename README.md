@@ -3,9 +3,13 @@
 **-- What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)?**
 
 a. Cost Savings – Lower maintenance due to fewer moving parts. Government subsidies (Faster Adoption and Manufacturing of Electric Vehicles (FAME) Phase II, state tax exemptions) reduce purchase costs.
+
 b. Environmental Concerns – Growing awareness of pollution and carbon footprint. Fleet operators (Uber, Ola) prefer EVs for sustainability goals.
+
 c. Government Incentives – Tax benefits (Section 80EEB), road tax waivers, and corporate rebates encourage adoption. Mandates for ride-sharing platforms promote EV usage.
+
 d. Charging Infrastructure – Expanding fast-charging networks (Tata Power, Jio-BP, ChargeZone) and home charging stations reduce range anxiety.
+
 e. Better Vehicle Options – Improved range (300-500 km), diverse models (Tata Nexon EV, MG ZS EV, Hyundai Kona EV), and luxury EVs (Mercedes EQS, BMW i4) attract buyers.
 
 
