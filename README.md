@@ -15,23 +15,23 @@ e. Better Vehicle Options – Improved range (300-500 km), diverse models (Tata 
 
 **-- How do government incentives and subsidies impact the adoption rates of 2-wheelers and 4-wheelers? Which states in India provided most subsidies?**
 
-     Government incentives and subsidies play a crucial role in boosting EV adoption by reducing upfront costs, lowering operating expenses, and signaling government support.
+      Government incentives and subsidies play a crucial role in boosting EV adoption by reducing upfront costs, lowering operating expenses, and signaling government support.
 
-      Key Impacts:
-       
-      a. Lower Costs: Subsidies reduce EV prices (e.g., ₹5,000–₹10,000 per kWh), making them competitive with ICE vehicles.
-       
-      b. Reduced Ownership Expenses: Road tax waivers and registration discounts lower long-term costs.
-       
-      c. Higher Adoption in Incentive-Rich States: Maharashtra, Assam, Gujarat, West Bengal, and Bihar offer the highest subsidies, leading to greater EV adoption.
-       
-      d. Slower Growth in Low-Incentive States: Rajasthan, MP, Punjab, Telangana, and others offer minimal or no subsidies, hindering adoption.
-      
-      Top Subsidizing States:
-      
-       4-Wheelers: Maharashtra (₹2.5L max), Assam, Gujarat, WB, Bihar (₹1.5L max).
-       
-       2-Wheelers: Maharashtra (₹25K max), Assam, Gujarat, WB, Bihar (₹20K max).
+  Key Impacts:
+   
+  a. Lower Costs: Subsidies reduce EV prices (e.g., ₹5,000–₹10,000 per kWh), making them competitive with ICE vehicles.
+   
+  b. Reduced Ownership Expenses: Road tax waivers and registration discounts lower long-term costs.
+   
+  c. Higher Adoption in Incentive-Rich States: Maharashtra, Assam, Gujarat, West Bengal, and Bihar offer the highest subsidies, leading to greater EV adoption.
+   
+  d. Slower Growth in Low-Incentive States: Rajasthan, MP, Punjab, Telangana, and others offer minimal or no subsidies, hindering adoption.
+  
+  Top Subsidizing States:
+  
+   4-Wheelers: Maharashtra (₹2.5L max), Assam, Gujarat, WB, Bihar (₹1.5L max).
+   
+   2-Wheelers: Maharashtra (₹25K max), Assam, Gujarat, WB, Bihar (₹20K max).
 
 **-- How does the availability of charging stations infrastructure correlate with the EV sales and penetration rates in the top 5 states?**
 
