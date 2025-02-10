@@ -18,9 +18,13 @@ e. Better Vehicle Options – Improved range (300-500 km), diverse models (Tata 
    Government incentives and subsidies play a crucial role in boosting EV adoption by reducing upfront costs, lowering operating expenses, and signaling government support.
 
    Key Impacts:
+   
        a. Lower Costs: Subsidies reduce EV prices (e.g., ₹5,000–₹10,000 per kWh), making them competitive with ICE vehicles.
+       
        b. Reduced Ownership Expenses: Road tax waivers and registration discounts lower long-term costs.
+       
        c. Higher Adoption in Incentive-Rich States: Maharashtra, Assam, Gujarat, West Bengal, and Bihar offer the highest subsidies, leading to greater EV adoption.
+       
        d. Slower Growth in Low-Incentive States: Rajasthan, MP, Punjab, Telangana, and others offer minimal or no subsidies, hindering adoption.
       
       Top Subsidizing States:
@@ -56,9 +60,13 @@ Represents modernity and a progressive mindset.
 Factors for Ideal EV Manufacturing Location in India
 
 a. Subsidies: Maharashtra offers the highest subsidies for both 2-wheelers and 4-wheelers. Gujarat offers competitive subsidies.
+
 b. Ease of Doing Business: Gujarat consistently ranks high, followed by Maharashtra, Tamil Nadu, and Karnataka.
+
 c. Stability in Governance: All four states have stable governance and pro-business policies.
+
 d. Industrial Infrastructure: Gujarat, Maharashtra, Tamil Nadu, and Karnataka have strong industrial bases, skilled labor, and good connectivity.
+
 e. Other Factors: Proximity to markets (Maharashtra, Gujarat), skilled workforce (Tamil Nadu, Karnataka), and port connectivity (Gujarat, Maharashtra) are crucial.
 
 **-- My top 3 recommendations for AtliQ Motors.**
