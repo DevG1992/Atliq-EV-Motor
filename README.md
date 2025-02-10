@@ -1,8 +1,3 @@
-# Atliq-EV-Motor
-Domain: Automotive Industry
-Function: Executive Management
-Company: Atliq Motors (imaginary company)
-
 ## Research 
 
 **-- What are the primary reasons for customers choosing 4-wheeler EVs in 2023 and 2024 (cost savings, environmental concerns, government incentives)?**
